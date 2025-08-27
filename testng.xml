@@ -10,6 +10,17 @@
                     <include name="test_GET_Negative_TC3"/>
                 </methods>
             </class>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.GET.Lab006_APITesting_GET_BDDStyle">
+                <methods>
+                    <include name="test_GET_Positive"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.GET.Lab007_APITesting_GET_NonBDDStyle">
+                <methods>
+                    <include name="test_Positive_TC01"/>
+                    <include name="test_Negative_TC02"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
