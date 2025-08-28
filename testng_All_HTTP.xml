@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/aditya.verma/IdeaProjects/ATB12xAPIAutomationProgram">
+        <classes>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.POST.Lab009_APITesting_POST_NonBDDStyle">
+            </class>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.GET.Lab007_APITesting_GET_NonBDDStyle">
+            </class>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.PUT.Lab010_APITesting_PUT_NonBDDStyle">
+            </class>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.PATCH.Lab011_APITesting_PATCH_NonBDDStyle">
+            </class>
+            <class name="com.thetestingacademy.ex04_RestAssured_HTTP_Methods.DELETE.Lab012_APITesting_DELETE_NonBDD">
+            </class>
+        </classes>
+    </test>
+</suite>
